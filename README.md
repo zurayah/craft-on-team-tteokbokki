@@ -32,6 +32,6 @@
 [게임 다운로드 (v1.0)](https://github.com/zurayah/craft-on-team-tteokbokki/releases/tag/v1.0)
 
 ## 실행 방법
-1. 위 다운로드 링크(Releases)에서 `.zip` 압축 파일을 다운로드합니다.
+1. 위 다운로드 링크(Releases)에서 `yoshiwara_demo.zip` 압축 파일을 다운로드합니다.
 2. 압축을 해제한 폴더 안에서 **`yoshiwara_demo.exe` 실행 파일**을 더블클릭하여 실행합니다.
    - *(주의: `.exe` 파일만 따로 바탕화면 등으로 빼내면 실행되지 않으니, 반드시 압축을 푼 폴더 내부에서 실행해 주세요.)*
