@@ -47,7 +47,7 @@
 [게임 다운로드 (v1.0)](https://github.com/zurayah/craft-on-team-tteokbokki/releases/tag/v1.0)
 
 ## 실행 방법
-위 다운로드 링크(Releases)에서 사용 중인 운영체제에 맞는 압축 파일을 다운로드해 주세요.
+위 다운로드 링크에서 사용 중인 운영체제에 맞는 압축 파일을 다운로드해 주세요.
 
 ### 🪟 Windows
 1. **`yoshiwara_demo_wins.zip`** 파일을 다운로드하고 압축을 해제합니다.
